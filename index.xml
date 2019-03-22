@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://aratakokubun.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Mar 2019 17:13:32 +0900</lastBuildDate>
+    
+	<atom:link href="https://aratakokubun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello Hugo World</title>
+      <link>https://aratakokubun.github.io/posts/helloworld/</link>
+      <pubDate>Fri, 22 Mar 2019 17:13:32 +0900</pubDate>
+      
+      <guid>https://aratakokubun.github.io/posts/helloworld/</guid>
+      <description>Hugo + github.ioでblogを作ってみた 流行りに乗ってHugo + github.ioでblogを作ってみた。
+感想としてはgithubにpushするだけでページが公開できるので、 とにかく楽で敷居の低さが非常に良かった。
+今後はなんか作ったらこれで公開していくスタイルにしよう。</description>
+    </item>
+    
+    <item>
+      <title>List of my published works.</title>
+      <link>https://aratakokubun.github.io/works/</link>
+      <pubDate>Fri, 22 Mar 2019 16:16:51 +0900</pubDate>
+      
+      <guid>https://aratakokubun.github.io/works/</guid>
+      <description>KanaRomaEx Elxiir module to convert kana to roma and roma to kana. Published in Hex.
+iex&amp;gt; KanaRoma.kana2roma &amp;quot;あいう azAZ09% ａｚＡＺ０９、。 わをん&amp;quot; &amp;quot;aiu azAZ09% ａｚＡＺ０９、。 wawon&amp;quot; iex&amp;gt; KanaRoma.roma2kana &amp;quot;aiu azAZ09% ａｚＡＺ０９、。 wawon&amp;quot; &amp;quot;あいう あzAZ09% ａｚＡＺ０９、。 わをん&amp;quot;   github: https://github.com/aratakokubun/KanaRomaEx hex: https://hex.pm/packages/kana_roma  gym_renju Renju game simulating environment for Open AI Gym. Published in PyPi.
+ github: https://github.com/aratakokubun/gym_renju/ PyPi: https://pypi.org/project/gym-renju/  cursor-jack Web GUI library to hijack cursor and control it.</description>
+    </item>
+    
+  </channel>
+</rss>
